@@ -1,3 +1,0 @@
-﻿  ConsoleApplication1.cpp
-C:\C++ Project\Assortrock\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(16,19): error C2065: 'ptr': 선언되지 않은 식별자입니다.
-C:\C++ Project\Assortrock\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(17,6): error C2065: 'ptr': 선언되지 않은 식별자입니다.
