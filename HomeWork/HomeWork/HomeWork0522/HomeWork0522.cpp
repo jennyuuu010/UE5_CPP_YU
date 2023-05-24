@@ -2,6 +2,7 @@
 //
 
 #include <iostream>
+#include <conio.h>
 
 void StatusRender(const char* const _Name, int _Att, int _Hp)
 {
