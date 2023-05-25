@@ -1,0 +1,35 @@
+﻿  HomeWork0525.cpp
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(42,12): warning C4477: 'printf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(44,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(62,12): warning C4477: 'printf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int'입니다.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(63,12): warning C4477: 'printf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(98,12): warning C4477: 'printf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(100,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(119,12): warning C4477: 'printf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int'입니다.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(120,12): warning C4477: 'printf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(159,58): error C2660: 'Player::GetName': 함수는 0개의 인수를 사용하지 않습니다.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(72,18): message : 'Player::GetName' 선언을 참조하십시오.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(164,61): error C2660: 'Monster::GetName': 함수는 0개의 인수를 사용하지 않습니다.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(128,16): message : 'Monster::GetName' 선언을 참조하십시오.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(164,14): warning C4473: 'printf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(164,14): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(164,14): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%s'에 필요합니다.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(165,60): error C2660: 'Player::GetName': 함수는 0개의 인수를 사용하지 않습니다.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(72,18): message : 'Player::GetName' 선언을 참조하십시오.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(165,14): warning C4473: 'printf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(165,14): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(165,14): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%s'에 필요합니다.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(174,58): error C2660: 'Player::GetName': 함수는 0개의 인수를 사용하지 않습니다.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(72,18): message : 'Player::GetName' 선언을 참조하십시오.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(175,58): error C2660: 'Monster::GetName': 함수는 0개의 인수를 사용하지 않습니다.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(128,16): message : 'Monster::GetName' 선언을 참조하십시오.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(180,60): error C2660: 'Player::GetName': 함수는 0개의 인수를 사용하지 않습니다.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(72,18): message : 'Player::GetName' 선언을 참조하십시오.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(180,14): warning C4473: 'printf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(180,14): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(180,14): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%s'에 필요합니다.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(181,61): error C2660: 'Monster::GetName': 함수는 0개의 인수를 사용하지 않습니다.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(128,16): message : 'Monster::GetName' 선언을 참조하십시오.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(181,14): warning C4473: 'printf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(181,14): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+C:\C++ Project\Assortrock\UE5_CPP_YU\HomeWork\HomeWork\HomeWork0525\HomeWork0525.cpp(181,14): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%s'에 필요합니다.
